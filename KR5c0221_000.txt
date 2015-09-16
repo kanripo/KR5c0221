@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:54:39.039928
-#+TITLE: 嵩山太無先生氣經
-#+PROPERTY: DZID  DZ0824
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，18—418 二卷（上下同卷） 洞神部方法類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
